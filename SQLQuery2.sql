@@ -1,0 +1,1 @@
+﻿Select name, phone_number, username from Customer where username = 'ahmed'
